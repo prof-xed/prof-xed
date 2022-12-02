@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Don't ask about the name I've tried 😒
+
+Special earnings from my university:
+
+![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal)
+
+
 <!--
 **JouharBirakdar223787/JouharBirakdar223787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
