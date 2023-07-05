@@ -21,6 +21,7 @@ Rules:
  - Every time a days doesn't show up as greeny 🍃, the status shall reset.
  - Mandatory work (Uni, Voluntary, or work) doesn't count.
  - if one day missed the strike will reset.
+ - Always right the commit name as one day to the future (optimicity)
 
 Exceptions:
  - Serious illness.
