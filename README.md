@@ -15,11 +15,13 @@ Strike list:
 
 Goal:
  - 1000 day of continues coding challenge.
+
 Rules:
  - Every day there should be at least one code commit or an explination of a coding expression (no matter how small)
  - Every time a days doesn't show up as greeny, the status shall reset.
  - Mandatory work (Uni, Voluntary, or work) doesn't count.
  - if one day missed the strike will reset.
+
 Exceptions:
  - Serious illness.
  - Unable to delivar mandatory work.
