@@ -2,7 +2,7 @@
 
 ## Let's play a game:
 
-A thousand day of continues coding challenge.
+A thousand day of continues coding challenge, call it greeny. 🍃
 
 Current status:
  - Day **1** of **1K** continues coding challenge. (Started: 4 July 2023)
@@ -18,7 +18,7 @@ Goal:
 
 Rules:
  - Every day there should be at least one code commit or an explination of a coding expression (no matter how small)
- - Every time a days doesn't show up as greeny, the status shall reset.
+ - Every time a days doesn't show up as greeny 🍃, the status shall reset.
  - Mandatory work (Uni, Voluntary, or work) doesn't count.
  - if one day missed the strike will reset.
 
@@ -32,6 +32,8 @@ Failures count:
 
 Achievements during the challenge:
  - None at the moment.
+
+# 
 
 ---
 Don't ask about the name I've tried 😒
