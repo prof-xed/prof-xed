@@ -30,6 +30,9 @@ Exceptions:
 Failures count:
  - None at the moment.
 
+Achievements during the challenge:
+ - None at the moment.
+
 ---
 Don't ask about the name I've tried 😒
 
