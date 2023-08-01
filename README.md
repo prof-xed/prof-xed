@@ -5,13 +5,13 @@
 A thousand day of continues coding challenge, call it greeny. 🍃
 
 Current status:
- - Day **4** of **1K** continues coding challenge. (Started: 4 July 2023)
+ - Day **1** of **1K** continues coding challenge. (Started: 1 Aug 2023)
 
 Highest strike:
- - Current.
+ - 5 days
 
 Strike list:
- - Current.
+ - 4<sup>th</sup> of July
 
 Goal:
  - 1000 day of continues coding challenge.
@@ -21,7 +21,6 @@ Rules:
  - Every time a days doesn't show up as greeny 🍃, the status shall reset.
  - Mandatory work (Uni, Voluntary, or work) doesn't count.
  - if one day missed the strike will reset.
- - Always right the commit name as one day to the future (optimicity)
 
 Exceptions:
  - Serious illness.
@@ -29,24 +28,23 @@ Exceptions:
  - Something serious that isn't listed.
 
 Failures count:
- - None at the moment.
+ - 1
 
 Achievements during the challenge:
  - None at the moment.
 
-# 
-
----
+<!---
 Don't ask about the name I've tried 😒
 
 Special earnings from my university:
 
+Earned two of those though...
 ![badge]
 
-
 [badge]: https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal
+-->
 
-<!--
+<!-- Originals...
 **JouharBirakdar223787/JouharBirakdar223787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
