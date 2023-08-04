@@ -5,7 +5,7 @@
 A thousand day of continues coding challenge, call it greeny. 🍃
 
 Current status:
- - Day **1** of **1K** continues coding challenge. (Started: 1 Aug 2023)
+ - Day **1** of **1K** continues coding challenge. (Started: 4 Aug 2023)
 
 Highest strike:
  - 5 days
@@ -45,7 +45,7 @@ Earned two of those though...
 -->
 
 <!-- Originals...
-**JouharBirakdar223787/JouharBirakdar223787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**prof-xed/prof-xed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
