@@ -5,13 +5,16 @@
 A thousand day of continues coding challenge, call it greeny. 🍃
 
 Current status:
- - Day **2** of **1K** continues coding challenge. (Started: 4 Aug 2023)
+ - Day **1** of **1K** continues coding challenge. (Started: 10 Aug 2023)
 
 Highest strike:
  - 5 days
 
 Strike list:
- - 4<sup>th</sup> of July
+ - 10<sup>th</sup> of August<sub>WIP</sub>
+ - 8<sup>th</sup> of August<sub>1</sub>
+ - 4<sup>th</sup> of August<sub>2</sub>
+ - 4<sup>th</sup> of July<sub>5</sub>
 
 Goal:
  - 1000 day of continues coding challenge.
@@ -28,7 +31,7 @@ Exceptions:
  - Something serious that isn't listed.
 
 Failures count:
- - 1
+ - 3
 
 Achievements during the challenge:
  - None at the moment.
