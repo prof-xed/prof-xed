@@ -5,7 +5,7 @@
 A thousand day of continues coding challenge, call it greeny. 🍃
 
 Current status:
- - Day **14** of **1K** continues coding challenge. (Started: 10 Aug 2023)
+ - Day **15** of **1K** continues coding challenge. (Started: 10 Aug 2023)
 
 Highest strike:
  - current
