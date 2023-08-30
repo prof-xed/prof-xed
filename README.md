@@ -7,11 +7,11 @@ A thousand day of continues coding challenge, call it greeny. 🍃
 Current status:
  - Day **18** of **1K** continues coding challenge. (Started: 10 Aug 2023)
 
-Highest strike:
+Highest streak:
  - current
 
-Strike list:
- - 10<sup>th</sup> of August<sub>WIP</sub>
+Streak list:
+ - 10<sup>th</sup> of August<sub>18</sub>
  - 8<sup>th</sup> of August<sub>1</sub>
  - 4<sup>th</sup> of August<sub>2</sub>
  - 4<sup>th</sup> of July<sub>5</sub>
@@ -19,11 +19,21 @@ Strike list:
 Goal:
  - 1000 day of continues coding challenge.
 
+Intention:
+ - it's never about completing the 1000 days, it's about:
+   - practice
+   - learning
+   - curiousity
+   - commitment
+   - exploration
+   - self motivation
+   - making mistakes where I don't need to so I learn where I should not
+
 Rules:
  - Every day there should be at least one code commit or an explination of a coding expression (no matter how small)
  - Every time a days doesn't show up as greeny 🍃, the status shall reset.
  - Mandatory work (Uni, Voluntary, or work) doesn't count.
- - if one day missed the strike will reset.
+ - if one day missed the streak will reset.
 
 Exceptions:
  - Serious illness.
@@ -31,7 +41,7 @@ Exceptions:
  - Something serious that isn't listed.
 
 Failures count:
- - 3
+ - 4
 
 Achievements during the challenge:
  - None at the moment.
