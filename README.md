@@ -1,4 +1,11 @@
-### Hi there 👋
+<div align="center">
+ 
+ ### Hi there 👋
+  
+ _<sub>I just wanna mention that I'm not a professor as my name might influence @prof-xed, however, I'm seeking to be one day.</sub>_
+ 
+ _<sup>you never know!</sup>_
+</div>
 
 ## Let's play a game:
 
