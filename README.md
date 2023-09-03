@@ -12,12 +12,13 @@
 A thousand day of continues coding challenge, call it greeny. 🍃
 
 Current status:
- - Day **18** of **1K** continues coding challenge. (Started: 10 Aug 2023)
+ - Day **0** of **1K** continues coding challenge. (Started: 10 Sep 2023)
 
 Highest streak:
- - current
+ - 10<sup>th</sup> of August<sub>18</sub>
 
 Streak list:
+ - 10<sup>th</sup> of Sep<sub>WIP</sub>
  - 10<sup>th</sup> of August<sub>18</sub>
  - 8<sup>th</sup> of August<sub>1</sub>
  - 4<sup>th</sup> of August<sub>2</sub>
